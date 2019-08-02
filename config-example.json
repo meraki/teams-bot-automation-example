@@ -1,0 +1,28 @@
+{
+	"s3": {
+		"s3_bucket": "",
+		"aws_access_key_id": "",
+		"aws_secret_access_key": ""
+	},
+	"meraki": {
+		"token": "",
+		"lookback": 3
+	},
+	"teams_bot": {
+		"token": "",
+		"app_name": "",
+		"app_url": "",
+        "app_email": "",
+        "opt_help_message": "",
+		"opt_user_restriction": ""
+	},
+	"deploy": {
+		"orgid": "",
+		"templatenetwork": "",
+		"ms_list": [],
+		"mr_list": [],
+		"mx_list": [],
+		"msaccess": "3-8",
+		"msvvlan": 100
+	}
+}
